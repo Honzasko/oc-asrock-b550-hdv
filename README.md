@@ -7,8 +7,9 @@ macOS Sonoma(10.14) Recovery ✅
 ## Tested OSes 
 Windows 11 ✅
 
+## Modify config before using
 
-Use GenSMBios to generate serial keys for PlatformInfo in config
+Use GenSMBios to generate serial keys for PlatformInfo in config.plist located at EFI/OC
 
 The Type part gets copied to Generic -> SystemProductName.
 
