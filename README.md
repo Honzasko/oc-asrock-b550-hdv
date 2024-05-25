@@ -1,5 +1,5 @@
-# OpenCore EFI for ASRock B550-HDV
-OpenCore EFI for ASRock B550-HDV motherboard with tested config.plist
+# OpenCore EFI for ASRock B550M-HDV
+OpenCore EFI for ASRock B550M-HDV motherboard with tested config.plist
 
 ## Tested Images
 macOS Sonoma(10.14) Recovery ✅
